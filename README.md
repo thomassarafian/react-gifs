@@ -1,4 +1,4 @@
-# react-boilerplate
+# React Project to learn basics
 
 Simple react starter with the following config:
 
